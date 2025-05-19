@@ -2,8 +2,6 @@
 
 A simple command-line application written in PHP that calculates bowling scores according to the official rules – including support for strikes, spares, and extra rolls in the final frame.
 
---Project Overview--
-
 This project implements two main classes: Game and Round. The app allows the user to input the number of pins knocked down for each roll, calculates scores in real time, and correctly applies bonus rules for strikes and spares.
 
 --Project Structure--
