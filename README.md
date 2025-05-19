@@ -30,7 +30,8 @@ Standard CLI (Command Line Interface)
 1. Make sure PHP 7.4+ is installed
 2. Clone the repository:
 
-git clone https://github.com/Donnattello/ScoringBowling.git
+[git clone https://github.com/Donnattello/ScoringBowling.git](https://github.com/Donnattello/ScoringBowling.git)
+
 cd ScoringBowling
 
 3. Run the game:
